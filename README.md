@@ -20,6 +20,7 @@ While not all, a clear majority of all IP addresses have a reverse DNS record. Y
 When your browser loaded this page, our server was aware of your IP address and your browser was aware of our IP address, thanks to DNS. This is how the internet works.
 
 sources:
+
 https://www.leadfeeder.com/blog/what-is-reverse-dns-and-why-you-should-care/#gref
 
 https://www.wired.com/2010/02/set_up_a_dns_name_server/
