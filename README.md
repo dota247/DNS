@@ -1,7 +1,9 @@
-What is reverse DNS in laymans terms
+***DNS in laymans terms
+
+***What is reverse DNS in laymans terms
 Whenever we navigate to a certain webpage, say google.com, our browser checks for the IP address of that domain name and uses that address to find the correct page.
 
-DNS, Domain Name System, is an address list of computers connected to the internet. If you want to go to Amazon, you’ll ask DNS where they are located. Just like you would use an address book in normal life (wait a minute, no one actually uses an address book these days, do they?).
+***DNS, Domain Name System, is an address list of computers connected to the internet. If you want to go to Amazon, you’ll ask DNS where they are located. Just like you would use an address book in normal life (wait a minute, no one actually uses an address book these days, do they?).
 
 Note that an address book only works in a one-dimensional way. It’s easy to find the address of John Smith from your address book but if you are given an address, it’s pretty hard to find out in your address book who lives there - even if you have their address stored somewhere in your address book.
 
